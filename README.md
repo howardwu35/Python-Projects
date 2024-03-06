@@ -1,3 +1,3 @@
 # Python-Projects
 
-- Miscellaneous Coding Projects -
+- Miscellaneous Coding Projects
